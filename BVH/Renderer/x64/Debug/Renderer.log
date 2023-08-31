@@ -1,0 +1,21 @@
+﻿  dev_app.cpp
+C:\Full Sail\Engine Development\BVH\Renderer\bvh.h(242,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Full Sail\Engine Development\BVH\Renderer\bvh.h(243,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Full Sail\Engine Development\BVH\Renderer\frustum_culling.h(42,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Full Sail\Engine Development\BVH\Renderer\frustum_culling.h(46,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Full Sail\Engine Development\BVH\Renderer\frustum_culling.h(47,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Full Sail\Engine Development\BVH\Renderer\dev_app.cpp(113,43): warning C4267: 'argument': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Full Sail\Engine Development\BVH\Renderer\dev_app.cpp(113,64): warning C4267: 'argument': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Full Sail\Engine Development\BVH\Renderer\dev_app.cpp(113,80): warning C4267: 'argument': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Full Sail\Engine Development\BVH\Renderer\dev_app.cpp(163,48): warning C4267: 'argument': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Full Sail\Engine Development\BVH\Renderer\dev_app.cpp(163,75): warning C4267: 'argument': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Full Sail\Engine Development\BVH\Renderer\dev_app.cpp(163,97): warning C4267: 'argument': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Full Sail\Engine Development\BVH\Renderer\dev_app.cpp(372,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Full Sail\Engine Development\BVH\Renderer\dev_app.cpp(373,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Full Sail\Engine Development\BVH\Renderer\dev_app.cpp(437,28): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Full Sail\Engine Development\BVH\Renderer\dev_app.cpp(458,27): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Full Sail\Engine Development\BVH\pools.h(83,1): warning C4267: '=': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Full Sail\Engine Development\BVH\pools.h(78): message : while compiling class template member function 'end::pool_t<end::particle,2048>::pool_t(void)'
+C:\Full Sail\Engine Development\BVH\Renderer\dev_app.cpp(23): message : see reference to function template instantiation 'end::pool_t<end::particle,2048>::pool_t(void)' being compiled
+C:\Full Sail\Engine Development\BVH\Renderer\dev_app.cpp(23): message : see reference to class template instantiation 'end::pool_t<end::particle,2048>' being compiled
+  Renderer.vcxproj -> C:\Full Sail\Engine Development\BVH\x64\Debug\Renderer.exe

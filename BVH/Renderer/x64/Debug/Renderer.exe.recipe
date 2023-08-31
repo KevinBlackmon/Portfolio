@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Full Sail\Engine Development\BVH\x64\Debug\Renderer.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Full Sail\Engine Development\BVH\Renderer\ps_cube.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Full Sail\Engine Development\BVH\Renderer\ps_line.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Full Sail\Engine Development\BVH\Renderer\TerrainVertex.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Full Sail\Engine Development\BVH\Renderer\TerrianPixel.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Full Sail\Engine Development\BVH\Renderer\vs_cube.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Full Sail\Engine Development\BVH\Renderer\vs_line.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
