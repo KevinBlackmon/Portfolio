@@ -1,0 +1,4 @@
+﻿  CNEChatBox.cpp
+E:\CNEChatBox\CNEChatBox\Client.h(86,82): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+E:\CNEChatBox\CNEChatBox\Server.h(118,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CNEChatBox.vcxproj -> E:\CNEChatBox\x64\Debug\CNEChatBox.exe
