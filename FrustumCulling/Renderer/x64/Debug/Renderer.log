@@ -1,0 +1,35 @@
+﻿  compilation object save succeeded; see C:\Full Sail\Engine Development\FrustumCulling\Renderer\ps_cube.cso
+  compilation object save succeeded; see C:\Full Sail\Engine Development\FrustumCulling\Renderer\ps_line.cso
+  compilation object save succeeded; see C:\Full Sail\Engine Development\FrustumCulling\Renderer\vs_cube.cso
+  compilation object save succeeded; see C:\Full Sail\Engine Development\FrustumCulling\Renderer\vs_line.cso
+  blob.cpp
+  debug_renderer.cpp
+  dev_app.cpp
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\frustum_culling.h(48,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\frustum_culling.h(52,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\frustum_culling.h(53,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\dev_app.cpp(108,43): warning C4267: 'argument': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\dev_app.cpp(108,64): warning C4267: 'argument': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\dev_app.cpp(108,80): warning C4267: 'argument': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\dev_app.cpp(158,48): warning C4267: 'argument': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\dev_app.cpp(158,75): warning C4267: 'argument': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\dev_app.cpp(158,97): warning C4267: 'argument': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\dev_app.cpp(355,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\dev_app.cpp(356,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\dev_app.cpp(473,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\dev_app.cpp(473,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\dev_app.cpp(474,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\dev_app.cpp(474,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\pools.h(83,1): warning C4267: '=': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\pools.h(78): message : while compiling class template member function 'end::pool_t<end::particle,2048>::pool_t(void)'
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\dev_app.cpp(18): message : see reference to function template instantiation 'end::pool_t<end::particle,2048>::pool_t(void)' being compiled
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\dev_app.cpp(18): message : see reference to class template instantiation 'end::pool_t<end::particle,2048>' being compiled
+  main.cpp
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\main.cpp(142,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\main.cpp(143,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\main.cpp(191,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  renderer.cpp
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\d3d11_renderer_impl.h(149,1): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Full Sail\Engine Development\FrustumCulling\Renderer\d3d11_renderer_impl.h(393,1): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+  Generating Code...
+  Renderer.vcxproj -> C:\Full Sail\Engine Development\FrustumCulling\x64\Debug\Renderer.exe
