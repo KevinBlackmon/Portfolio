@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Full Sail\Dev 4\Level Renderer\build\CMakeFiles\698192077f1193ab7945b581a5d9ec3c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A26502B5-7EC0-3A30-AF9C-3313CFDA4F05}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
